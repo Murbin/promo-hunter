@@ -1,4 +1,5 @@
 # ConnectBuy - E-commerce Product Grid
+![image](https://github.com/user-attachments/assets/4dcf276b-b8f5-42c1-85a1-0930f2743f02)
 
 A modern, high-performance React application showcasing an optimized product grid with advanced features and real-time performance metrics.
 
